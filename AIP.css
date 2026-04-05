@@ -1,0 +1,38 @@
+
+
+.header{background-color:#44CF9B;
+	padding: 5px;
+	text-align:center;
+	font-family: Comic Sans Ms; 
+	}
+
+.nav{background-color:#D5F04D;
+	padding:5px;
+	text-align:center;
+	font-family: Comic Sans MS;
+	font-size:12px;
+	}
+
+.section{background-color:#E03A3A;
+	text-align:center;
+	font-family: Comic Sans MS;
+	padding:5px;
+	}
+	
+
+.article{text-align:center;
+	background-color:#8086ED;
+	font-family: Comic Sans MS;
+	padding:5px;}
+
+.aside{	background-color:#862991;
+	font-family: Comic Sans MS;
+	text-align:center;
+	padding:5px;}
+
+.footer{background-color:green;
+	text-align:center;
+	font-family: Comic Sans MS;
+	padding:5px;}
+
+	
